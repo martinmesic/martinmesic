@@ -4,7 +4,7 @@ Jsem student se zájmem o vývoj webových stránek a vývoj počítačových he
 
 ---
 
-### Technologie, které umím a stále se je učím
+### Technologie, které používám a dál se v nich vzdělávám
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
